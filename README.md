@@ -11,7 +11,3 @@
 ### 🚀 Technical Philosophy
 *   **Code as Craft:** Strictly following PEP 8, modular architecture, and robust exception handling.
 *   **Precision:** Advocating for high-performance, production-ready code with comprehensive documentation and type hinting.
-
-### 💻 Core Domains
-*   **Blockchain Infrastructure:** Architecting interoperable network solutions (e.g., i3m.com).
-*   **Digital Asset Management:** Developing secure, high-frequency trading logic and utility token integrations (BGB/USDT).
