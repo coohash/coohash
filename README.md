@@ -1,6 +1,6 @@
 <div align="center">
 
-### 💡 Designing resilient systems for decentralized ecosystems.
+###  Designing resilient systems for decentralized ecosystems.
 
 <br>
 
@@ -11,13 +11,7 @@
 
 ---
 
-### 🏛 Architectural Principles
+### 🌐 Architectural Principles
 
-*   **🛠 Code as Craft**: Strictly following **PEP 8**, modular architecture, and robust exception handling.
+*   **⚡ Code as Craft**: Strictly following **PEP 8**, modular architecture, and robust exception handling.
 *   **🎯 Precision**: Advocating for high-performance, production-ready code with comprehensive documentation and type hinting.
-
----
-
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=coohash&theme=radical&show_icons=true&hide_border=true&count_private=true" />
-</div>
